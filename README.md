@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Earthquake_Challenge
 
 We were asked to help Basil from the Disaster Reporting Network to create a web-based mapping visualization of earthquake data from the US Geological Survey for all earthquakes over the last 7 days (a period from approximately May 22, 2021 to May 29, 2021).
 
